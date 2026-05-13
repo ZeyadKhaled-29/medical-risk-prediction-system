@@ -37,9 +37,7 @@ The application then predicts disease risk using trained ML models.
 
 # 🎥 Demo Video
 
-Add your demo video link here after uploading:
-
-https://youtu.be/3mSPgzuGKpA
+[![Watch Demo](https://img.youtube.com/vi/3mSPgzuGKpA/maxresdefault.jpg)](https://youtu.be/3mSPgzuGKpA)
 
 # 📊 Dataset
 
